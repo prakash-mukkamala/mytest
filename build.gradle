@@ -1,0 +1,7 @@
+task clean {
+ println 'executing clean'
+}
+task build {
+ println 'executing build'
+}
+
